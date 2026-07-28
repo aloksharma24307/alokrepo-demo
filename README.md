@@ -1,4 +1,4 @@
 # alokrepo-demo
 my first repo
 <br>
-author - Alok Sharma
+author - Alok Sharma(change from vs code)
